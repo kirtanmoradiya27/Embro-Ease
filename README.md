@@ -112,15 +112,22 @@ Here's a refined version of the documentation with a focus on the design perspec
    - Displays one company dashboard.
 4. **Dashboard**
    - **Dashboard Main Page** – Monthly reports:
-     - Total products
-     - Total received items
-     - Total deliveries
+      - **Machine Status Section**:
+       - Cards/Lists showing active, inactive, assigned, and unassigned machines.
+       - Indicators like **Active**, **Not Assigned**.
+      - **Design Overview Section**:
+         - Design images and numbers with **assigned** or **unassigned** indicators.
+         - Details about which machines are assigned to which designs.
+     - **Quick Actions**:
+      - Buttons for **View Design Details**, **Notify Admin for Assignment**.
 
 5. **Pages**
    - **Machine Status**
      - View-only access.
      - Assign design number.
-   - **Design Overview**
+- **Main Dashboard Area**:
+
+- **Design Overview**
      - View-only access.
    - **Product Entry**
      - View-only access.
