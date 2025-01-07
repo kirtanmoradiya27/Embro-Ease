@@ -79,9 +79,10 @@ Here's a refined version of the documentation with a focus on the design perspec
      - Total deliveries
      - Total revenue
 
-4. **Features**
+4. **Pages**
    - **All Employees Machine**
      - Admin can add, view, and assign machines.
+     - Filed is machine number , employee name.
      - Displays machine information in a box format.
    - **Design Page**
      - Displays design data (image-type data).
