@@ -47,13 +47,6 @@ Here's a refined version of the documentation with a focus on the design perspec
 
 ---
 
-### **◉ Common Pages**
-
-1. **Login**
-2. **Sign Up**
-
----
-
 ### **◉ Panel Details**
 
 #### **Super Admin Panel**
