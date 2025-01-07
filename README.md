@@ -73,22 +73,23 @@ Here's a refined version of the documentation with a focus on the design perspec
 2. **Home / Dashboard**
    - Displays specific companies managed by the Admin.
 3. **Dashboard (One Company View)**
-   - **All Over Report** – Monthly reports:
+   - **Dashboard Main Page ** – Monthly reports:
      - Total products
      - Total received items
      - Total deliveries
      - Total revenue
 
 4. **Pages**
-   - **All Employees Machine**
+   - **Machine Status**
      - Admin can add, view, and assign machines.
-     - Filed is machine number , employee name.
+     - Filed is machine number , employee name, design number.
+     - Assign design number.
      - Displays machine information in a box format.
-   - **Design Page**
+   - **Design Overview**
      - Displays design data (image-type data).
-   - **Party Entry**
+   - **Party List**
      - Fields: Party Code, Name, GST Number, Address, Phone Number.
-   - **Product Entry**
+   - **Product**
      - Fields: Product Code, Name, Status.
    - **Bill Selection**
      - Types of bills:
@@ -110,16 +111,16 @@ Here's a refined version of the documentation with a focus on the design perspec
 3. **Home**
    - Displays one company dashboard.
 4. **Dashboard**
-   - **All Over Report** – Monthly reports:
+   - **Dashboard Main Page** – Monthly reports:
      - Total products
      - Total received items
      - Total deliveries
-     - Total revenue
 
-5. **Features**
-   - **All Employees Machine**
+5. **Pages**
+   - **Machine Status**
      - View-only access.
-   - **Design Page**
+     - Assign design number.
+   - **Design Overview**
      - View-only access.
    - **Product Entry**
      - View-only access.
