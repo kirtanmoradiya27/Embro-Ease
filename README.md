@@ -97,9 +97,9 @@ Here's a refined version of the documentation with a focus on the design perspec
    - **Receive Entry**
      - Two types:
        1. **Material Bill** – Fields: Party Name, Received Date, Product Name, Quantity, Rate, Amount.
-       2. **Product Bill** – Fields: Party Name, Received Date, Product Name, Design Number, Quantity, Rate, Amount.
+       2. **Product Bill** – Fields: Party Name,  Received Number , Received Date, Product Name, Design Number, Quantity, Rate, Amount.
    - **Delivery Entry**
-     - Fields: Party Name, Received Date, Delivery Date, Product Name, Design Number, Quantity, Rate, Amount.
+     - Fields: Party Name,  Received Number , Received Date , Delivery Number , Delivery Date, Product Name, Design Number, Quantity, Rate, Amount.
 
 ---
 
