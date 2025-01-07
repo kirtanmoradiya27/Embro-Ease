@@ -112,6 +112,9 @@ Here's a refined version of the documentation with a focus on the design perspec
    - Displays one company dashboard.
 4. **Dashboard**
    - **Dashboard Main Page** – Monthly reports:
+      - Total products
+      - Total received items
+      - Total deliveries
       - **Machine Status Section**:
           - Cards/Lists showing active, inactive, assigned, and unassigned machines.
           - Indicators like **Active**, **Not Assigned**.
