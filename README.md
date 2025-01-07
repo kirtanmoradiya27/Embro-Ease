@@ -128,9 +128,7 @@ Here's a refined version of the documentation with a focus on the design perspec
    - **Machine Status**
      - View-only access.
      - Assign design number.
-- **Main Dashboard Area**:
-
-- **Design Overview**
+   - **Design Overview**
      - View-only access.
    - **Product Entry**
      - View-only access.
