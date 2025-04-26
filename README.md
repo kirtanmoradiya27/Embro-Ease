@@ -126,6 +126,18 @@ Here's a refined version of the documentation with a focus on the design perspec
    - **Product Entry**
      - View-only access.
 
+
+
+
++--------------------------------------------------------------------+
+| ID: EM-101                                              🟢        | 
+|                                                                    | 
+| DST :  D-4582                                                      | 
+| Maintenance Date: 20-Apr-2025                                      | 
+| Employee Name: Aarav Mehta                     Production: 92%     | 
++--------------------------------------------------------------------+
+
+
 ---
 
 #### **Employee Panel**
